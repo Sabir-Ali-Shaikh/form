@@ -1,0 +1,29 @@
+
+button {
+  background-color: #2587fe;
+  width: 100%;
+  color: #eae6df;
+  padding: 15px;
+  margin: 10px 0px;
+  border: none;
+  cursor: pointer;
+}
+form {
+  width: 40%;
+}
+.text{
+  width: 100%;
+  padding: 12px 20px;
+  display: inline-block;
+  border: 2px solid rgb(0, 0, 0);
+  box-sizing: border-box;
+}
+button:hover {
+  background-color: aquamarine;
+  color: black;
+}
+
+.container {
+  padding: 25px;
+  background-color: rgb(175, 235, 255);
+}
